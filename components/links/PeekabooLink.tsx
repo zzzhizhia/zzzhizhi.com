@@ -21,7 +21,7 @@ export function PeekabooLink({
   className,
   ...props
 }: PeekabooLinkProps) {
-  const [isOpen, setIsOpen] = React.useState(false)
+  const [isOpen, setIsOpen] = React.useState(true)
 
   // if it's a relative link, use a fallback Link
   if (!href.startsWith('http')) {
