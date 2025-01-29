@@ -93,11 +93,11 @@ export default function AboutPage() {
         <h2>名字由来</h2>
         <details>
           <summary>zzzhizhi</summary>
-          <p>我的正式对外名称，读作 “致之”。</p>
+          <p>我的正式对外名称，读作 “致之” 。有时因名称重复，作 “zzzhizhia”。</p>
         </details>
         <details>
           <summary>致之</summary>
-          <p>化用自 &quot;致知在格物&quot;，在“格物”之上，达到理性的“知”。</p>
+          <p>我的字，化用自西汉戴圣《礼记·大学》“致知在格物，物格而后知至”。意为通过实际行动、努力和过程来实现理想、认知目标，在“格物”之上，达到理性的“知”。</p>
         </details>
 
         <h2>一些经历</h2>
