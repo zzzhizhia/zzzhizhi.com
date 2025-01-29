@@ -102,8 +102,12 @@ export default function AboutPage() {
 
         <h2>一些经历</h2>
         <ul>
-          <li><strong>2022.05</strong> LPS（创始人）</li>
-          <li><strong>2022.05 - now</strong> LPS（服主）</li>
+          <li>
+            <strong>2022.05</strong> LPS（创始人）
+          </li>
+          <li>
+            <strong>2022.05 - now</strong> LPS（服主）
+          </li>
           <li>
             <strong>2024.05 - now</strong> 
             <RichLink href="https://www.ccf.org.cn" target="_blank">
@@ -139,18 +143,10 @@ export default function AboutPage() {
             （歌手）
           </li>
           <li>
-            <strong>2025.01 - now</strong> 
-            <RichLink href="https://www.tgfmc.top/sizha" target="_blank">
-            MOC/Sizha
-            </RichLink>
-            （服管）
+            <strong>2025.01 - now</strong> MOC/Sizha（服管）
           </li>
           <li>
-            <strong>2025.01 - now</strong> 
-            <RichLink href="https://xku-scs.edu.cn" target="_blank">
-            XKU-SCS
-            </RichLink>
-            （讲师）
+            <strong>2025.01 - now</strong> XKU-SCS（讲师）
           </li>
         </ul>
 
