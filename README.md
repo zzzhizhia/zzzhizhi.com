@@ -1,6 +1,6 @@
 ## zzzhizhi 个人网站
 
-zzzhizhi 的个人博客网站 [https://zzzhizhi.top](https://zzzhizhi.top) 的源代码。
+zzzhizhi 的个人博客网站 [https://zzzhizhi.com](https://zzzhizhi.com) 的源代码。
 
 需要其他服务商的环境变量才能正常运行，所以如果你想要在本地运行，需要自己配置。
 

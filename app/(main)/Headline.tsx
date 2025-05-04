@@ -95,33 +95,33 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://zzzhizhi.top/twitter"
+          href="https://zzzhizhi.com/twitter"
           aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
-          href="https://zzzhizhi.top/youtube"
+          href="https://zzzhizhi.com/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://zzzhizhi.top/bilibili"
+          href="https://zzzhizhi.com/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://zzzhizhi.top/github"
+          href="https://zzzhizhi.com/github"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://zzzhizhi.top/tg"
+          href="https://zzzhizhi.com/tg"
           aria-label="我的 Telegram"
           platform="telegram"
         />
         <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" />
         <SocialLink
-          href="mailto:i@zzzhizhi.top"
+          href="mailto:i@zzzhizhi.com"
           aria-label="我的邮箱"
           platform="mail"
         />
