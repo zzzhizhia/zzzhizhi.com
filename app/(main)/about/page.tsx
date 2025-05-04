@@ -140,7 +140,7 @@ export default function AboutPage() {
           </li>
           <li>
             <strong>2025.01 - now</strong> 
-            <RichLink href="https://xku.zzzhizhi.com" target="_blank">
+            <RichLink href="https://xku.ourmoc.cn" target="_blank">
             XKU-SCS
             </RichLink>
             （讲师）
