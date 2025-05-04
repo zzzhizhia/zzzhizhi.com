@@ -140,7 +140,7 @@ export default function AboutPage() {
           </li>
           <li>
             <strong>2025.01 - now</strong> 
-            <RichLink href="https://xku.zzzhizhi.top" target="_blank">
+            <RichLink href="https://xku.zzzhizhi.com" target="_blank">
             XKU-SCS
             </RichLink>
             （讲师）
@@ -148,7 +148,7 @@ export default function AboutPage() {
         </ul>
 
         <h2>域名</h2>
-        <p><strong>zzzhizhi.top</strong>：个人域名</p>
+        <p><strong>zzzhizhi.com</strong>：个人域名</p>
         <p><strong>drim.cc</strong>：社团域名</p>
         <p><strong>lpslps.com</strong>：MC 服务器域名</p>
 

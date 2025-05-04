@@ -38,7 +38,7 @@ export function Activity() {
       enabled:
         typeof window === 'undefined'
           ? false
-          : new URL(window.location.href).hostname === 'zzzhizhi.top',
+          : new URL(window.location.href).hostname === 'zzzhizhi.com',
     }
   )
   const [open, setOpen] = React.useState(false)

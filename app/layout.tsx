@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'zzzhizhi',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://zzzhizhi.top',
+    url: 'https://zzzhizhi.com',
   },
   twitter: {
     site: '@zzzhizhia',
