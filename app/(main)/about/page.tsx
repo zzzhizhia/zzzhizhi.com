@@ -149,6 +149,7 @@ export default function AboutPage() {
 
         <h2>域名</h2>
         <p><strong>zzzhizhi.com</strong>：个人域名</p>
+        <p><strong>zzzhizhi.top</strong>：曾用域名</p>
         <p><strong>drim.cc</strong>：社团域名</p>
         <p><strong>lpslps.com</strong>：MC 服务器域名</p>
 
