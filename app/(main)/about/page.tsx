@@ -155,6 +155,7 @@ export default function AboutPage() {
 
         <h2>装备</h2>
         <ul>
+          <li>AJAZZ AK820 MAX ULTRA</li>
           <li>iPhone 12 Pro</li>
           <li><s>Vivo X9s</s></li>
           <li>MECHREVO Jiguang Pro (2023)</li>
